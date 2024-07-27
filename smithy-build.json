@@ -1,0 +1,6 @@
+{
+    // Version of the smithy-build.json file specification
+    "version": "1.0",
+    // Location to search for Smithy model source files
+    "sources": ["model"]
+}
